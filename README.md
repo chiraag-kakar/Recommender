@@ -5,6 +5,8 @@ which have a higher correlation with the movie which one want's to compare.
 # Data
 We will use **MovieLens dataset**, which is one of the most common datasets used when implementing and testing recommender engines. 
 It contains **100k movie ratings** from **943 users** and a selection of **1682 movies.** 
+
+
 To download the dataset : [Click Here](http://files.grouplens.org/datasets/movielens/ml-100k.zip)
 
 # Objective
